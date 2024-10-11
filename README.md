@@ -1,6 +1,8 @@
 # FastAdaSP
 Code for the paper "FastAdaSP: An Efficient Multitask Inference Framework for Large Speech Language Models". EMNLP 2024
 
+To be released before Nov.
+
 [Paper](https://arxiv.org/pdf/2410.03007)
 
 ```bib
