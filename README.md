@@ -5,6 +5,12 @@ To be released before Nov.
 
 [Paper](https://arxiv.org/pdf/2410.03007)
 
+<p align="center">  <img src="https://github.com/yichen14/FastAdaSP/blob/main/FastAdaSP.png" height ="450"> </p>
+
+Step 1.
+
+Example.
+
 ```bib
 @article{lu2024fastadasp,
   title={FastAdaSP: Multitask-Adapted Efficient Inference for Large Speech Language Model},
