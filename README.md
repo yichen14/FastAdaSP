@@ -7,9 +7,6 @@ To be released before Nov.
 
 <p align="center">  <img src="https://github.com/yichen14/FastAdaSP/blob/main/FastAdaSP.png" height ="300"> </p>
 
-Step 1.
-
-Example.
 
 ```bib
 @article{lu2024fastadasp,
