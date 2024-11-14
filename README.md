@@ -11,6 +11,7 @@ To be released before Nov.
 ## To-do list
 
 - [x] Release Code for Qwen-Audio
+- [ ] Release Code for WavLLM
 - [ ] Release Evaluation Piepline
 
 
